@@ -1,0 +1,25 @@
+.App {
+    margin: auto;
+    width: fit-content;
+    margin-top: 4%;
+}
+
+button {
+    background: none;
+    border: none;
+    margin: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+button:active {
+    opacity: 0.7;
+}
+
+h1 {
+    text-align: center;
+}
+
